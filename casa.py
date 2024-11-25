@@ -1,1 +1,1 @@
-adasd
+print("Hola mundo")
